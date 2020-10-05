@@ -1,0 +1,154 @@
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojResolveAssemblyReference.cache
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDangNhap.resources
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormTrangChu.resources
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.Cache
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucNhanVien.resources
+C:\Users\Thang Dell\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormGioiThieu.resources
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDangNhap.resources
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucNhanVien.resources
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormGioiThieu.resources
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormTrangChu.resources
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+C:\Users\Admin\Desktop\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+D:\.net\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+D:\.net\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+D:\.net\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojResolveAssemblyReference.cache
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.DanhMucKieuXe.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormChucVu.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDangNhap.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucLoaiXe.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucNhanVien.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormGioiThieu.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormTrangChu.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+D:\.net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.Cache
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojAssemblyReference.cache
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.DanhMucKieuXe.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormChucVu.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDangNhap.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucLoaiXe.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucNhanVien.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormGioiThieu.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormTrangChu.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+D:\Công nghệ phần mềm\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojAssemblyReference.cache
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.DanhMucKhachHang.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormChucVu.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDangNhap.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucLoaiXe.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucNhanVien.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormGioiThieu.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormTrangChu.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhapHang.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_TaiKhoan.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_Xe.resources
+D:\levanhai\CNPM\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhaCunngCap.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.DanhMucKhachHang.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhapHang.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_TaiKhoan.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_Xe.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormChucVu.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDangNhap.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucLoaiXe.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormDanhMucNhanVien.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormGioiThieu.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhaCunngCap.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.dll
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.pdb
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.dll.config
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CopyComplete
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.FormPhieuBaoHanh.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.PhieuXuat.resources
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojAssemblyReference.cache
+D:\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmTrangChu.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DanhMucKhachHang.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_PhieuBaoHanh.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_TrangChu.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhapHang.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_TaiKhoan.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_Xe.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_ChucVu.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DangNhap.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DanhMucLoaiXe.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DanhMucNhanVien.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_GioiThieu.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhaCunngCap.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_PhieuXuat.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CopyComplete
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.dll.config
+C:\Users\DELL\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.dll
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.pdb
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\bin\Debug\BLL_DAL.dll.config
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DanhMucKhachHang.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_PhieuBaoHanh.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_TrangChu.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhapHang.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_TaiKhoan.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_Xe.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_ChucVu.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DangNhap.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DanhMucLoaiXe.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_DanhMucNhanVien.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_GioiThieu.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_PhieuXuat.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+C:\Users\Admin\Downloads\QuanLyXeMay_CNPM\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frm_NhaCungCap.resources
